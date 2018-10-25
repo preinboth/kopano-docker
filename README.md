@@ -3,6 +3,7 @@ Unofficial kopano docker images for all kopano services.
 Use kopano_core image for server/spooler/dagent/search/monitor/ical/gateway services.
 Use kopano_webapp for web service.
 
+
 Building
 =======
 You may use `build.sh` script but you can also invoke `docker build` directly to build community or supported kopano components.
